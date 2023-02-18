@@ -1,1 +1,6 @@
 18-02-2023
+- Arregla popus Actualizaciones.
+- Nuevo diseño Reiniciar imagen.
+- Nuevo diseño Actualizar IMAGEN
+- Agregado FECHA ACTUALIZACIÓN en Nota Versión
+- Agregado popus YA TIENES LA ÚLTIMA VAERSIÓN
