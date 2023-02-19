@@ -1,7 +1,8 @@
-18-02-2023
+19-02-2023
 - Arregla popus Actualizaciones.
-- Nuevo diseño Reiniciar imagen.
-- Nuevo diseño Actualizar IMAGEN
-- Agregado FECHA ACTUALIZACIÓN en Nota Versión
-- Agregado popus YA TIENES LA ÚLTIMA VAERSIÓN
-- Nuevo diseño Copiar Restaurar
+- Nuevo diseño Botón Reiniciar IMAGEN.
+- Nuevo diseño Botón Actualizar IMAGEN.
+- Nuevo diseño Botón Apagar IMAGEN.
+- Nuevo diseño Botón COPIAR RESTAURAR.
+- Agregado FECHA ACTUALIZACIÓN en Nota Versión.
+- Agregado popus YA TIENES LA ÚLTIMA VAERSIÓN.
