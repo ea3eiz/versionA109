@@ -5,4 +5,4 @@
 - Nuevo diseño Botón Apagar IMAGEN.
 - Nuevo diseño Botón COPIAR RESTAURAR.
 - Agregado FECHA ACTUALIZACIÓN en Nota Versión.
-- Agregado popus YA TIENES LA ÚLTIMA VAERSIÓN.
+- Agregado popus YA TIENES LA ÚLTIMA VERSIÓN.
