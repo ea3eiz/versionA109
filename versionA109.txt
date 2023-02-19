@@ -4,3 +4,4 @@
 - Nuevo diseño Actualizar IMAGEN
 - Agregado FECHA ACTUALIZACIÓN en Nota Versión
 - Agregado popus YA TIENES LA ÚLTIMA VAERSIÓN
+- Nuevo diseño Copiar Restaurar
