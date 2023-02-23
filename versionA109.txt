@@ -1,4 +1,4 @@
-19-02-2023
+23-02-2023
 - Arregla popup Actualizaciones.
 - Nuevo diseño Botón Reiniciar IMAGEN.
 - Nuevo diseño Botón Actualizar IMAGEN.
