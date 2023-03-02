@@ -1,4 +1,4 @@
-27-02-2023
+02-03-2023
 - Arregla popup Actualizaciones.
 - Nuevo diseño Botón Reiniciar IMAGEN.
 - Nuevo diseño Botón Actualizar IMAGEN.
@@ -6,4 +6,8 @@
 - Nuevo diseño Botón COPIAR RESTAURAR.
 - Agregado FECHA ACTUALIZACIÓN en Nota Versión.
 - Agregado popup YA TIENES LA ÚLTIMA VERSIÓN.
-- Modificado el Editor VirtualRadar Server
+- Modificado el Editor VirtualRadar Server.
+- Modificado el Editor NXDN.
+- Arrgelado error UARPORT del Editor DMR2M17.
+- Modificaciones varias del HBLINK.
+- Otras configuraciones menores menores.
